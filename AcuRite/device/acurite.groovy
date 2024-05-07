@@ -16,7 +16,6 @@
  *
  *  Last Update 11/08/2023
  *
- * ALW 20250507 - 83 update tempature attribute from decimal to number 
  *  v0.0.9 - suppressed password in debug logs
  *  v0.0.8 - added UltravioletIndex capability
  *  v0.0.7 - added windDirection (you're a machine, chad.andrews) 
